@@ -47,5 +47,14 @@ Below shown are the two percentage values for paid and unpaid Vine reviews.
 
 ![image](https://user-images.githubusercontent.com/85843030/136700146-1a917755-0acb-460e-94be-ba2d50361e9d.png)
 
+# Summary
+Looking at the results one could draw the conclusion that the Vine reviews are more biast. However, in order to truly support this, one would have to 
+analyse each review to see if this trend is recognised for the other review datasets.
 
+We can also look at the mean value across the star ratings to see if the average star rating is higher for the paid vine reviews than for
+the unpaid vine reviews.
+From tables we can see that the average star rating for the paid reviews is approximately 25.5% higher than for the average unpaid review.(4.202/3.348)
 
+![image](https://user-images.githubusercontent.com/85843030/136704517-23ca36f6-90d1-4e1a-b2ab-2893127a98b6.png)
+
+<b><ins>Conclusion:</b></ins> Based on the above analysis, the conclusion is made that the Vine-paid reviews are biast. However, in order to support this hypothesis, all data sets need to be analysed.
