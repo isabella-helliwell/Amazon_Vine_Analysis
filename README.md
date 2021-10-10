@@ -29,6 +29,17 @@ pySpark:
 3. New DataFrame is created for the data filtered for the paid Vine reviews and the unpaid vine reviews
 4. Finally the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the paid and unpaid reviews is calculated.
 
+# Results
+* Vine Reviews (paid) and non-Vine reviews (unpaid):
+As shown below, there is 94 reviews from Vine paid customers and 40471 reviews from the Vine unpaid customers.
+
+![image](https://user-images.githubusercontent.com/85843030/136699539-d74a2f8f-830b-4be8-9eed-1590c828bdec.png)
+
+
+* 5-star reviews for Vine Reviews (paid) and non-Vine reviews (unpaid):
+As shown in the screen grab, there are 48 five star paid Vine reviews and 15663 unpaid five star Vine reviews.
+
+![image](https://user-images.githubusercontent.com/85843030/136699812-553e2ca3-af38-4615-aa6d-aca9d55d0d15.png)
 
 
 
