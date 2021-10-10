@@ -42,5 +42,10 @@ As shown in the screen grab, there are 48 five star paid Vine reviews and 15663 
 ![image](https://user-images.githubusercontent.com/85843030/136699812-553e2ca3-af38-4615-aa6d-aca9d55d0d15.png)
 
 
+* Percentage 5-star reviews for Vine Reviews (paid) and non-Vine reviews (unpaid);
+Below shown are the two percentage values for paid and unpaid Vine reviews.
+
+![image](https://user-images.githubusercontent.com/85843030/136700146-1a917755-0acb-460e-94be-ba2d50361e9d.png)
+
 
 
