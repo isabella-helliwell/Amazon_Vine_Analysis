@@ -53,7 +53,7 @@ analyse each review to see if this trend is recognised for the other review data
 
 We can also look at the mean value across the star ratings to see if the average star rating is higher for the paid vine reviews than for
 the unpaid vine reviews.
-From tables we can see that the average star rating for the paid reviews is approximately 25.5% higher than for the average unpaid review.(4.202/3.348)
+From tables we can see that the average star rating for the paid reviews is approximately <b>25.5% higher</b> than for the average unpaid review.(4.202/3.348)
 
 ![image](https://user-images.githubusercontent.com/85843030/136704517-23ca36f6-90d1-4e1a-b2ab-2893127a98b6.png)
 
