@@ -23,7 +23,9 @@ the transformed data into <b>pgAdmin</b> data tables.
 Below shown are four screen grabs from some of the data input in the tables
 
 Output customer_table pgAdmin
+
 ![customer_table](https://user-images.githubusercontent.com/85843030/136719444-4f4f98ea-8279-4e9e-ba86-15f3e4e91047.png)
+
 
 
 Output products_table pgAdmin
@@ -31,9 +33,11 @@ Output products_table pgAdmin
 ![products_table](https://user-images.githubusercontent.com/85843030/136719488-26339ac1-e636-45b2-9392-d8f36bf4532b.png)
 
 
+
 Output review_id_table pgAdmin
 
 ![review_id_table](https://user-images.githubusercontent.com/85843030/136719512-06e16787-0654-455a-a8a0-0a275ede2a84.png)
+
 
 
 Output vine_table pgAdmin
