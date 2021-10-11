@@ -20,6 +20,27 @@ See the <b><ins>Amazon_Reviews_ETL.ipyng </ins></b> and <b><ins>Vine_Review_Anal
 ## Deliverable 1.
 <b>PySpark</b> is used to preform the ETL process to extract the dataset, transform the data, and connect to an </b>AWS RDS instance</b>, and finally to load
 the transformed data into <b>pgAdmin</b> data tables.
+Below shown are four screen grabs from some of the data input in the tables
+
+Output customer_table pgAdmin
+![customer_table](https://user-images.githubusercontent.com/85843030/136719444-4f4f98ea-8279-4e9e-ba86-15f3e4e91047.png)
+
+
+Output products_table pgAdmin
+
+![products_table](https://user-images.githubusercontent.com/85843030/136719488-26339ac1-e636-45b2-9392-d8f36bf4532b.png)
+
+
+Output review_id_table pgAdmin
+
+![review_id_table](https://user-images.githubusercontent.com/85843030/136719512-06e16787-0654-455a-a8a0-0a275ede2a84.png)
+
+
+Output vine_table pgAdmin
+
+![vine_table](https://user-images.githubusercontent.com/85843030/136719558-62ce594f-b4e5-4ed3-b074-019b28bf13c6.png)
+
+
 
 ## Deliverable 2.
 The second part of the analysis is to determine if there is any bias toward favorable reviews from Vine members in the dataset. This is done by using
